@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
 
-  const BackgroundImage = `https://plus.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a?q=80&w=1910&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D`
+  const BackgroundImage = `https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`
 
   const [amount, setAmount] = useState(0);
   const [from, setFrom] = useState("usd");
